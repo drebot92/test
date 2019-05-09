@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Mariupol-Bold";
+    src: url("Mariupol-Bold.eot");
+    src: url("Mariupol-Bold.eot?#iefix") format("embedded-opentype"),
+         url("Mariupol-Bold.woff2") format("woff2"),
+         url("Mariupol-Bold.woff") format("woff"),
+         url("Mariupol-Bold.ttf") format("ttf"),
+         url("Mariupol-Bold.svg#Mariupol-Bold") format("svg");
+    font-style: normal;
+    font-weight: 700;
+}

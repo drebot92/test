@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Mariupol-Medium";
+    src: url("Mariupol-Medium.eot");
+    src: url("Mariupol-Medium.eot?#iefix") format("embedded-opentype"),
+         url("Mariupol-Medium.woff2") format("woff2"),
+         url("Mariupol-Medium.woff") format("woff"),
+         url("Mariupol-Medium.ttf") format("ttf"),
+         url("Mariupol-Medium.svg#Mariupol-Medium") format("svg");
+    font-style: normal;
+    font-weight: normal;
+}
